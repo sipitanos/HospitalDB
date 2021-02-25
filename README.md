@@ -5,8 +5,8 @@ The project was created with Eclipse IDE and with TomCat server. To import it ju
 
 Inser this to the bottom of the Tomcat's xml file:
 
-<listener>
-   <listener-class>
+\<listener\>
+   \<listener-class\>
       listeners.StartupListener 
-   </listener-class>
-</listener>
+   \</listener-class\>
+\</listener\>
